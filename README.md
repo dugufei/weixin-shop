@@ -14,13 +14,13 @@
 登录H5活动之家（http://www.h5huodong.com）找到需要对接的微商城，没有微商城可以创建一个微商城，进入菜单【商城类】-【小程序商城】-【商城管理】创建自己的商城。
 ```
 ![输入图片说明](https://static.oschina.net/uploads/img/201810/12164635_Xdg6.png "在这里输入图片标题")
-```
-    商城创建后进入商城后台管理，获取商城id
-```
+
+##### （2）商城创建后进入商城后台管理，获取商城id
+
 ![输入图片说明](https://static.oschina.net/uploads/img/201810/12164733_csh9.png "在这里输入图片标题")
-```
-    商城id配置到小程序项目中/dist/utils/wxRequest.js文件中
-```
+
+##### （3）商城id配置到小程序项目中/dist/utils/wxRequest.js文件中
+
 ![输入图片说明](https://static.oschina.net/uploads/img/201810/12165152_lYSv.png "在这里输入图片标题")
 #### 3、商城小程序支付配置
 ```
@@ -48,12 +48,17 @@
 ```
 小程序发布，需要通过微信开发者工具上传项目，上传者需扫码微信开发者工具，
 该登录微信号必须是当前小程序的开发者。
-1、授权开发者权限
+1、发布前准备
+  授权开发者权限
    小程序后台管理员授权微信用户为开发者
    【用户身份-成员管理】添加成员
 ```
 ![输入图片说明](https://static.oschina.net/uploads/img/201810/12165423_DkBh.png "在这里输入图片标题")
 ```
+   服务器域名配置：
+   小程序后台，进入【设置-开发设置】，服务器域名设置app.h5huodong.com
+    改配置授权H5活动之家提供服务支持。
+![输入图片说明](https://static.oschina.net/uploads/img/201810/12172743_EdRx.png "在这里输入图片标题")
 2、下载微信开发者工具
 下载地址：
 https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
