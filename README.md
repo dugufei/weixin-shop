@@ -24,17 +24,17 @@
 ### 部分功能截图
 
 
-<img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop1.png" width="365" height="619" /> 	<img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop2.png" width="365" height="619"/> 
+<img src="https://static.oschina.net/uploads/img/201810/15181034_BERo.png" width="365" height="619" /> 	<img src="https://static.oschina.net/uploads/img/201810/15181118_sH2e.png" width="365" height="619"/> 
 
-<img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop3.png" width="365" height="619"/> 		<img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop4.png" width="365" height="619"/> 
+<img src="https://static.oschina.net/uploads/img/201810/15181150_iLVK.png" width="365" height="619"/> 		<img src="https://static.oschina.net/uploads/img/201810/15181206_bZIa.png" width="365" height="619"/> 
 
-<img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop5.png" width="365" height="619"/>		 <img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop6.png" width="365" height="619"/> 
+<img src="https://static.oschina.net/uploads/img/201810/15181220_WMkc.png" width="365" height="619"/>		 <img src="https://static.oschina.net/uploads/img/201810/15181220_WMkc.png" width="365" height="619"/> 
 
-<img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop7.png" width="365" height="619"/>		 <img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop8.png" width="365" height="619"/> 
+<img src="https://static.oschina.net/uploads/img/201810/15181252_WyoG.png" width="365" height="619"/>		 <img src="https://static.oschina.net/uploads/img/201810/15181307_yLmX.png" width="365" height="619"/> 
 
-<img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop9.png" width="365" height="619"/>		 <img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop10.png" width="365" height="619"/> 
+<img src="https://static.oschina.net/uploads/img/201810/15181320_CdkW.png" width="365" height="619"/>		 <img src="https://static.oschina.net/uploads/img/201810/15181331_Ob28.png" width="365" height="619"/> 
 
-<img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop11.png" width="365" height="619"/> 
+<img src="https://static.oschina.net/uploads/img/201810/15181347_ReLN.png" width="365" height="619"/> 
 
 
 
