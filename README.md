@@ -30,7 +30,7 @@
 
 <img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop5.png" width="365" height="619"/>		 <img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop6.png" width="365" height="619"/> 
 
-<img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop7.png" width="365" height="619"/>		 <img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop8.png width="365" height="619"/> 
+<img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop7.png" width="365" height="619"/>		 <img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop8.png" width="365" height="619"/> 
 
 <img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop9.png" width="365" height="619"/>		 <img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshop10.png" width="365" height="619"/> 
 
