@@ -16,7 +16,7 @@
 
 打开微信扫一扫
 
-<img src="https://gitee.com/jeecg/weixin-app-shop/blob/master/screenshots/eshopqr.jpg" width="200" height="200"/> 
+<img src="https://static.oschina.net/uploads/img/201810/15180859_25Ok.jpg" width="200" height="200"/> 
 
     
 
