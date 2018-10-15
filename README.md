@@ -9,8 +9,8 @@
 4、微信开发者工具-->项目-->关闭代码压缩上传。  <font color=red>重要：开启后，会导致真机computed, props.sync 等等属性失效。</font> 
 
 
-### 小程序开发文档
-	http://mp.weixin.qq.com/debug/wxadoc/dev/
+### 小程序商城开发文档
+	http://wepydemo.mydoc.io/?t=325724
 
 ### 演示地址
 
