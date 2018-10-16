@@ -22,7 +22,7 @@ function _asyncToGenerator(fn) { return function () { var gen = fn.apply(this, a
 
 var API_SECRET_KEY = '372E839C53FCAED6F72780372E839C53FC47B1912B6C47B1912B6CAED6F72780';
 var TIMESTAMP = _util2.default.getCurrentTime();
-var MAIN_ID = 'ff************************b';
+var MAIN_ID = 'ff80808158004a720158005cc83f000b';
 var SIGN = _md2.default.hex_md5((TIMESTAMP + API_SECRET_KEY + MAIN_ID).toLowerCase());
 
 var wxRequest = function () {
