@@ -13,7 +13,7 @@
 	http://wepydemo.mydoc.io/?t=325724
 
 ### 快速安装视频
-* [小程序商城安装视频](http://www.h5huodong.com/h5/vdetail.html?id=ff8080816615a36c016615ae42260052)
+* [小程序商城安装视频](http://www.h5huodong.com/h5/vdetail.html?id=ff80808166817391016681e062850259)
 
 ### 技术交流QQ群
 97460170
