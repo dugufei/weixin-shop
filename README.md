@@ -25,7 +25,7 @@
     
 
 
-### 部分功能截图
+### 功能截图
 
 
 <img src="https://static.oschina.net/uploads/img/201810/15181034_BERo.png" width="365" height="619" /> 	<img src="https://static.oschina.net/uploads/img/201810/15181118_sH2e.png" width="365" height="619"/> 
